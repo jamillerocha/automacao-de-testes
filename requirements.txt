@@ -1,0 +1,6 @@
+selenium
+pytest
+webdriver-manager
+python-dotenv
+guara
+behave
